@@ -115,18 +115,18 @@ Due to the disparity in sample sizes, the following results ***exhibit reduced s
 # Results <a name="results"></a>
 In the following areas we found the p-value to be less than 0.05, displaying a difference in the ADHD student and Typically Developing students’ data; Imposter Syndrome Score, Self-reported Confidence values, Blinks per Minute, Number of Clicks, First Click Time, Last Click Time, and Page Submit Time. 
 
-![p-value image](../img/ADHD_IP/p-values.png)
+![p-value image](img/p-values.png)
 
 ## Eye Tracking Metrics <a name="eyetrackingmetrics"></a>
 
 
 There were some Areas of Interest (AOIs) where the ADHD participant gazed longer than the TD participants, and in some cases the difference was much longer. However, we could not generalize anything, but we wanted to see if there was a difference in pattern to look into. 
 
-![eye tracking image](../img/ADHD_IP/eye.png)
+![eye tracking image](img/eye.png)
 
 The ADHD participant displayed greater blinks per minute throughout each code snippet. However, this was expected because it is researched that people with ADHD blink more than typically developing. 
 
-![blink img](../img/ADHD_IP/blinks.png)
+![blink img](img/blinks.png)
 
 
 
@@ -135,7 +135,7 @@ The ADHD participant displayed greater blinks per minute throughout each code sn
 
 TD participants have a greater range for min and max heart rate which is expected due to the difference in sample sizes. Not much of a difference in heart rate between groups.
 
-![HR](../img/ADHD_IP/HR.png)
+![HR](img/HR.png)
 
 
 
@@ -144,7 +144,7 @@ TD participants have a greater range for min and max heart rate which is expecte
 The ADHD participant scored higher on Clance's Imposter phenomenon scale which was designed to help individuals determine whether they have IS and if so, to what extent they are suffering
 because the TD participants had higher self reported confidence values, they have a lower IS score
 
-![IP](../img/ADHD_IP/IP.png)
+![IP](img/IP.png)
 
 
 
@@ -152,7 +152,7 @@ because the TD participants had higher self reported confidence values, they hav
 ## Discussion <a name="discussion"></a>
 After performing this analysis, it is my recommendation that click timing should be studied further. This was one of the most noteworthy findings from my analysis which I spent a lot of time on and strongly believe that it should be studied to the fullest extent in the pilot study. Mouse click data can give insight to cognitive functions, especially in Computer Science and neurodiverse populations. This data was only recorded for one snippet due to it not being needed in the previous study. The ADHD participant waited longer to make each type of click; first click, last click and submit page time. Metrics such as eye tracking, heart rate, and Imposter Syndrome scores were used as a foundation for research on potential differences between ADHD and TD during code comprehension. Further research is needed to establish a connection. This analysis serves as the preliminary investigation for a pilot study in the fall.
 
-![Further](../img/ADHD_IP/further.png)
+![Further](img/further.png)
 
 ## Next Steps <a name="nextsteps"></a>
 This fall I will work under Dr. Katy and Dr. Peruma and alongside Alyssia Chen to further this research. We hope to increase our sample sizes in order to gain more meaningful and statistically significant insights. 
